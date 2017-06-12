@@ -6,6 +6,10 @@ Created on Thu Apr  6 23:12:39 2017
 @author: kyujin
 """
 
+#wrong access
+# https://apis.naver.com/commentBox/cbox/web_naver_list_jsonp.json?ticket=news&templateId=view_politics&pool=cbox5&_callback=jQuery112401627809877692319_1497271834908&lang=ko&country=KR&objectId=news025%2C0002692654&categoryId=&pageSize=10&indexSize=10&groupId=&listType=OBJECT&page=1&sort=FAVORITE&_=1497271834911
+
+
 import json
 import requests
 import re
