@@ -3,7 +3,7 @@
 """
 Created on Thu Apr  6 23:12:39 2017
 
-@author: kyujin
+@author: 
 """
 
 # Adding soft wrap
