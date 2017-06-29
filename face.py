@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 28 13:17:40 2017
 
-@author: kyujinl
+@author: 
 """
 
 import kairos_face
