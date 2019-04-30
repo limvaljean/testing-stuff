@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import Kahyung from South_Korea kahyung
+import Kahyung from South_Korea as kahyung
 import Lars from Sweden as lars
 import random 
 import pandas as pd
